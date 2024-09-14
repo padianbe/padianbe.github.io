@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://padianbe.github.io/sitemap.html.gz
+Sitemap: https://padianbe.github.io/app/sitemap.html.gz
+Sitemap: https://padianbe.github.io/assets/sitemap.html.gz
+Sitemap: https://padianbe.github.io/css/sitemap.html.gz
+Sitemap: https://padianbe.github.io/includes/sitemap.html.gz
+Sitemap: https://padianbe.github.io/item/sitemap.html.gz
+Sitemap: https://padianbe.github.io/src/sitemap.html.gz
